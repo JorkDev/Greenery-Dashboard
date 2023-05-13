@@ -12,8 +12,7 @@ Features
 How to use?
 
 Clone the repository:
-Code snippet
-git clone https://github.com/[your username]/plant-store-admin-dashboard.git
+`git clone https://github.com/[your username]/plant-store-admin-dashboard.git`
 Use code with caution. Learn more
 Install the dependencies:
 Code snippet
