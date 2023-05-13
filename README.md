@@ -14,18 +14,18 @@ To install
 
 Clone the repository:
 ```sh
-git clone https://github.com/[your username]/plant-store-admin-dashboard.git
+$ git clone https://github.com/[your username]/plant-store-admin-dashboard.git
 ```
 
 Install the dependencies:
 ```sh
-cd plant-store-admin-dashboard
+$ cd plant-store-admin-dashboard
 npm install
 ```
 
 Start the development server:
 ```sh
-npm start
+$ npm start
 ```
 
 The dashboard will be available at http://localhost:3000.
@@ -34,7 +34,7 @@ To build for production
 
 To build the dashboard for production, run:
 ```sh
-npm run build
+$ npm run build
 ```
 
 The built files will be in the dist directory.
