@@ -1,4 +1,4 @@
-Plant Store Admin Dashboard
+# Plant Store Admin Dashboard
 This repository contains the code for a responsive admin dashboard for a plant store created using ReactJS. The dashboard features a modern design with a main page, listing, stats, recent activity, top sellers, can customize your own profile and responsive layout that adapts to different screen sizes. It has multiple entries such a menu pages and setting pages, you can check charts, trends, billing and the contact of the customers.
 
 Features
